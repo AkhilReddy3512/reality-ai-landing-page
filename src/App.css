@@ -16,6 +16,7 @@ body{
   right: 0; 
   z-index: 1;
 }
+
 .dropdown:hover .dropdown-content {
   display: block;
 }
@@ -24,9 +25,9 @@ body{
   background-size:cover;
 }
 .App2{
-  background-image: url('https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/t9ur9cc1khkup1dmcbzd/IMG%20Worlds%20of%20Adventure%20Admission%20Ticket%20in%20Dubai%20-%20Klook.jpg');
+  background-image: url('D:\REACT\realityai\public\landhome.jpg');
   background-size:cover;
-  max-height: 25vw;
+  height: 20vw;
 }
 .dropdown{
   opacity: 0.9;
