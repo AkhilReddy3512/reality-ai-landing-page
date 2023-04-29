@@ -9,7 +9,7 @@ function LandingPage() {
       <h1 className="text1 text3"><b>RealtyAi</b></h1>
       </nav>
       <div className="App2">
-        <p style={{paddingTop:"9vw"}} className="text">RealtyAi</p>
+        <p style={{paddingTop:"9vw", height:"auto", width:"100%"}} className="text">RealtyAi</p>
       </div>
       <div>
         <div class="container">
@@ -20,7 +20,7 @@ function LandingPage() {
                 <div className="card-body">
                   <h6 className="card-title">Project1</h6>
                   <p className="card-text">RealtyAi</p>
-                  <Link className="btn btn-outline-info center" to="https://otp-login-b8ec1.firebaseapp.com/" role="button" target='_blank'>Compare Now</Link>
+                  <Link className="btn btn-outline-info center" to="https://otp-login-b8ec1.firebaseapp.com/" role="button">Compare Now</Link>
                 </div>
               </div>
             </div>
